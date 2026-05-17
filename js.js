@@ -1,0 +1,5 @@
+alert("READY FOR SOMETHING EXIITING");
+alert("PLZ DON'T IGNORE");
+alert("PLZ DON'T GET ANGRY");
+alert("YOUR EXAM WILL BE VERY NICE TOMMOROW");
+alert("A SMALL ......");
